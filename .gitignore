@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+.env
+
+# Sensitive files
+*.key
+*.pem
+credentials.txt
+
+# Excel backups
+*.bak
+~$*.xlsx
+
+# Log files
+*.log
